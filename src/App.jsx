@@ -1,9 +1,10 @@
+import Login from "./components/Global/Login"
 
 
 function App() {
   return (
     <>
-      <h1>Hello Chat IO</h1>
+     <Login/>
     </>
   )
 }
